@@ -1,3 +1,0 @@
-1) Open Stepic's virtual machine
-2) git clone https://github.com/KirillLvov/stepic_web_project.git /home/box/web
-3) bash /home/box/web/init.sh
